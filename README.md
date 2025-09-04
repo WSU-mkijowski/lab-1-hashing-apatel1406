@@ -37,15 +37,18 @@ Answer the following:
 hash)
 
 ```
-
+'1792are  -  000ac13d8480c8644dbb50d329cfa8918be92a6b37951a36b6665dcb95713c92`
+`3517are  -  000b0ef440ce731f76fcae2d6a99ac3a8d8bcf38d961bed15d225ea9148a75d4`
+`1301words  -  000618d6fdd1ea7dd7d3b05289db84d6f09a8a3ef1c79b07659c841c1ecd160b`
 ```
 
 * How many words were in your dictionary?
-* How many nonces did your code iterate over?
-* What was the maximum number of hashes your code *could* compute given the above?
-* What did you think about Task 2?
-* Is there a better way than brute force to attempt to get higher valued coins?
-* Why or why not?
+  `14, same amount`
+* How many nonces did your code iterate over? `4001`
+* What was the maximum number of hashes your code *could* compute given the above? `14x4001=56014`
+* What did you think about Task 2? `It was hard trying to find the right way to script the coins, but eventually I did`
+* Is there a better way than brute force to attempt to get higher valued coins? `Yes`
+* Why or why not? `I out leading 0's as 000, but you can put 0000 or 00000, it might take more tim,e but you might find one`
 
 
 ```bash
