@@ -2,7 +2,6 @@
 
 DICT=~/data/dict
 TARGET="000"
-
 while read -r word; do
   for nonce in {1000..5000}; do
     combo="${nonce}${word}"
