@@ -55,4 +55,3 @@ hash)
 please put any cool bash one-liners or other piped commands you
 learned/struggled with for task 2 here
 ```
-https://man7.org/linux/man-pages/man1/sha256sum.1.html?utm_source=chatgpt.com ~ sha256 help page
